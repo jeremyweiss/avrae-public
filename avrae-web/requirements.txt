@@ -1,0 +1,6 @@
+markdown2==2.3.4
+Flask==0.12.2
+Jinja2==2.9.4
+requests-oauthlib==0.8.0
+redis==2.10.5
+gunicorn==19.7.1
